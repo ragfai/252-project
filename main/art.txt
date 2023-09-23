@@ -1,0 +1,17 @@
+#Title   Artist   Material
+Leonardo_Da_Vinci Mona_Lisa oil_paint 99 
+Johannes_Vermeer Girl_with_a_Pearl_Earring Acrylic_paint 72 
+Vincent_van_Gogh The_Starry_Night oil_paint 63 
+Gustav_Klimt The_Kiss oil_paint 73 
+Sandro_Botticelli The_Birth_of_Venus Tempra_paint 90 
+James_Whistler Arrangement_in_Grey_and_Black oil_paint 89 
+Jan_van_Eyck The_Arnolfini_Portrait oil_paint 55 
+Hieronymus_Bosch The_Garden_of_Earthly_Delights oil_paint 77 
+Georges_Seurat A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte oil_paint 87 
+Pablo_Picasso Les_Demoiselles_dAvignon oil_paint 98 
+Pieter_Bruegel The_Harvesters oil_paint 92 
+Jackson_Pollock number_five enemal_and_aluminum_paint 82 
+Banksy Girl_with_a_Balloon Spray_paint 79 
+Andy_Warhol Campbells_Soup_Cans Acrylic_paint 72 
+Michelangelo The_Last_Judgment Fresco_paint 95 
+Mark_Rothko number_fourteen Acrylic_paint 92  
